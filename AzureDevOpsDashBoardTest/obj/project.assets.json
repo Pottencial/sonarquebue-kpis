@@ -5887,7 +5887,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj",
+      "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj",
       "Microsoft.Extensions.Logging.Abstractions >= 2.2.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
@@ -5903,11 +5903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
+      "projectUniqueName": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
       "projectName": "AzureDevOpsDashBoardTest",
-      "projectPath": "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
+      "projectPath": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
       "packagesPath": "C:\\Users\\gibran.silva\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\obj\\",
+      "outputPath": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5926,8 +5926,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj": {
-              "projectPath": "D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj"
+            "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj": {
+              "projectPath": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj"
             }
           }
         }
@@ -5982,8 +5982,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj",
+      "message": "Unable to find project 'D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"
       ]

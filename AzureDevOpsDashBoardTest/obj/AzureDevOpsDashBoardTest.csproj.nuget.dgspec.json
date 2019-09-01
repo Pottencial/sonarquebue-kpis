@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj": {}
+    "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj": {
+    "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
+        "projectUniqueName": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
         "projectName": "AzureDevOpsDashBoardTest",
-        "projectPath": "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
+        "projectPath": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\AzureDevOpsDashBoardTest.csproj",
         "packagesPath": "C:\\Users\\gibran.silva\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\AzureDevOpsDashBoard\\AzureDevOpsDashBoardTest\\obj\\",
+        "outputPath": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\AzureDevOpsDashBoardTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj": {
-                "projectPath": "D:\\Projetos\\AzureDevOpsDashBoard\\FunctionApp1\\AzureDevOpsDashBoard.csproj"
+              "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj": {
+                "projectPath": "D:\\Projetos\\GitHub-Pottencial\\sonarquebue-kpis\\FunctionApp1\\AzureDevOpsDashBoard.csproj"
               }
             }
           }
